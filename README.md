@@ -2,7 +2,8 @@
 
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/@netofogagnollo)
 
-![Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=netofogagnollo&show_icons=true&theme=dracula) https://github-readme-stats.vercel.app/api/top-langs/?username=netofogagnollo&theme=blue-green
+![Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=netofogagnollo&show_icons=true&theme=dracula) 
+![Neto GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=netofogagnollo&theme=blue-green)
 
 ## Tecnologias que uso no meu dia
 
