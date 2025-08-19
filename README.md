@@ -18,7 +18,7 @@
 <img align="center" alt ="html5"src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
 
-## Atalhos
+# Atalhos
 
 <div style="display: inline_block"><br/>
   
