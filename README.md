@@ -2,13 +2,8 @@
 
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/@netofogagnollo)
 
-<a href="https://github.com/netofogagnollo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=netofogagnollo&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />
-</a>
-
-<a href="https://github.com/infosolutions-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infosolutions-dev&show_icons=true&theme=blue-green" />
-</a>
+[![Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=netofogagnollo&show_icons=true&theme=dracula)]
+[![Neto GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=netofogagnollo&theme=blue-green)]
 
 ## Tecnologias que uso no meu dia
 
